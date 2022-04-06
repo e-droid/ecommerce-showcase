@@ -1,2 +1,2 @@
 # ecommerce-showcase
-This is an ecommerce site made to showcase my skills with front-end development.
+This is an ecommerce site made to showcase my skills with front-end development with help from Easy Tuttorials on Youtube. It uses basic HTML, custom CSS, and Javascript to function. It features a a login page, landing page, and  an example of a shopping cart. All the pages are interconnected together so it feels like at functioning website. Any job requests please email @ eboaboakye@gamil.com.
