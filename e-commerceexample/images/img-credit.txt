@@ -1,0 +1,12 @@
+<a href='https://www.freepik.com/free-photos-vectors/banner'>Banner psd created by freepik - www.freepik.com</a>
+
+Products image: www.myntra.com
+
+function menutoggle() {
+  var MenuItems = document.getElementById("MenuItems");
+  if (MenuItems.style.display === "none") {
+    MenuItems.style.display = "block";
+  } else {
+    MenuItems.style.display = "none";
+  }
+}
